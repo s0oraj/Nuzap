@@ -22,8 +22,8 @@ A simple news android app which shows local news of top countries around the glo
   <img src="https://user-images.githubusercontent.com/42529024/170066321-a2bab16a-fd96-46fa-a0d0-62610bbc5495.png" width="22%" />
 </a>
 <span>&nbsp;</span>
-<a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" target="_blank">
-  <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" width="22%" />
+<a href="https://user-images.githubusercontent.com/42529024/170066822-112942e5-a1de-4bc4-9c45-9ac4f8c6b4fa.png" target="_blank">
+  <img src="https://user-images.githubusercontent.com/42529024/170066822-112942e5-a1de-4bc4-9c45-9ac4f8c6b4fa.png" width="22%" />
 </a>
 <span>&nbsp;</span>
 <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" target="_blank">
