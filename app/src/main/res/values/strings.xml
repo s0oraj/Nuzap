@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nuzap</string>
+
+    <string name="json_url">https://newsapi.org/v2/top-headlines?country=in&amp;apiKey=78d1304e1a4044f2b93a6c742a63d185</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="no_internet">No Internet </string>
+    <string name="no_news">No news received </string>
+    <string name="try_again">Please try again later</string>
+
+
+
+    <string name="news_html">newshtmldata.html</string>
+    <string name="no_such_page">There is no such page&#8230;</string>
+
+    <!-- Strings For Number of posts to show in app Preference -->
+
+    <string name="settings_newscount_label">News count</string>
+    <string name="settings_newscount_key" translatable="false">newscount_key</string>
+    <string name="settings_newscount_default" translatable="false">6</string>
+    <string name="settings_title">Settings</string>
+
+</resources>

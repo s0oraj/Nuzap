@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:title="India"
+        android:id="@+id/load_india"/>
+    <item
+
+        android:title="United States"
+        android:id="@+id/load_united_states"/>
+    <item
+
+        android:title="United Kingdom"
+        android:id="@+id/load_united_kingdom"/>
+    <item
+
+        android:title="Russia"
+        android:id="@+id/load_russia"/>
+    <item
+
+        android:title="Australia"
+        android:id="@+id/load_australia"/>
+    <item
+
+        android:title="Germany"
+        android:id="@+id/load_germany"/>
+    <item
+
+        android:title="France"
+        android:id="@+id/load_france"/>
+    <item
+
+        android:title="Brazil"
+        android:id="@+id/load_brazil"/>
+    <item
+
+        android:title="South Africa"
+        android:id="@+id/load_south_africa"/>
+    <item
+
+        android:title="Japan"
+        android:id="@+id/load_japan"/>
+
+</menu>
