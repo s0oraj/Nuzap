@@ -1,5 +1,5 @@
 # Nuzap
-A simple news android app which shows local news of top countries around the globe.
+A simple news android app which shows top headline news of countries around the globe.
 
 
  Install & try the app: [Download APK](https://drive.google.com/file/d/1s7CO-fvN0xJu7_m6CdFzFmjn84k6BwQF/view?usp=sharing)
